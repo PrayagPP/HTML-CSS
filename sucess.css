@@ -1,0 +1,23 @@
+h1{
+    color: green;
+   text-align: center;
+   margin-top: 250px;
+}
+h2{
+    color: red;
+    text-align: center;
+}
+button{
+    height: 50px;
+    width: 80px;
+    border-radius: 5px;
+    border: 2px solid;
+    margin-left: 800px;
+    background-color: blue;
+    text-decoration:none;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}

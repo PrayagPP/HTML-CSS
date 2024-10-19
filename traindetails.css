@@ -1,0 +1,51 @@
+.a2{
+   padding-left: 190px;
+   font-size: 20px;
+   display: inline;
+   color: black;
+
+}
+.a3{
+    padding-left: 806px;
+    height: 200px;
+    width: 600px;
+    margin-top: 100px;
+    padding-top: 279px;
+}
+.bdy{
+    height: 878px;
+    margin-top: -100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-image: url('/Acela_old_saybrook_ct_summer2011.jpg');
+   
+   
+}
+h1{
+    display: inline;
+}
+.a4{
+
+    height: 400px;
+    width: 600px;
+}
+th{
+    border: 1px solid white;
+    text-align: left;
+    padding: 10px;
+    font-size: 20px;
+    background-color: white;
+    color: black;
+}
+td{
+    border: 1px solid white;
+    text-align: left;
+    padding: 10px;
+    font-size: 20px;
+    background-color: white;
+    color: black;
+}
+a{
+    color: green;
+}
